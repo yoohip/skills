@@ -8,7 +8,7 @@ FastAdmin + ThinkPHP6 全栈开发 AI Agent Skills，涵盖 FastAdmin 后台 CRU
 
 | Skill | 描述 | 技术栈 |
 | --- | --- | --- |
-| [`fastadmin-mysql-design`](https://skills.sh/yoohip/skills/fastadmin-mysql-design) | FastAdmin + ThinkPHP6 MySQL 数据库设计规范 | FastAdmin + ThinkPHP6 + MySQL 8 |
+| [`fastadmin-mysql-design`](https://skills.sh/yoohip/skills/fastadmin-mysql-design) | FastAdmin + ThinkPHP6 MySQL 数据库设计规范 | FastAdmin + ThinkPHP6 + MySQL 5.7 |
 
 ## 安装
 
